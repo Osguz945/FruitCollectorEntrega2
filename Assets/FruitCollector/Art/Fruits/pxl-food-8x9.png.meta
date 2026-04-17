@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: 188ae80dcb8038b4aa6dbd9d27cc4b2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4591989685246006228
+    second: pxl-food-8x9_0
+  - first:
+      213: 8512494278894388302
+    second: pxl-food-8x9_1
+  - first:
+      213: 1548983994946505773
+    second: pxl-food-8x9_2
+  - first:
+      213: 7112347549439471921
+    second: pxl-food-8x9_3
+  - first:
+      213: 5089393978291500814
+    second: pxl-food-8x9_4
+  - first:
+      213: -4327495860001854428
+    second: pxl-food-8x9_5
+  - first:
+      213: -8316895400555855171
+    second: pxl-food-8x9_6
+  - first:
+      213: 8566676213103485157
+    second: pxl-food-8x9_7
+  - first:
+      213: -1241570315041267715
+    second: pxl-food-8x9_8
+  - first:
+      213: -1582440957298643012
+    second: pxl-food-8x9_9
+  - first:
+      213: -5129342467203312982
+    second: pxl-food-8x9_10
+  - first:
+      213: 4732885031941073053
+    second: pxl-food-8x9_11
+  - first:
+      213: -6978273975945018965
+    second: pxl-food-8x9_12
+  - first:
+      213: -6873335620781391410
+    second: pxl-food-8x9_13
+  - first:
+      213: 2896898019636466389
+    second: pxl-food-8x9_14
+  - first:
+      213: 678418432552357767
+    second: pxl-food-8x9_15
+  - first:
+      213: -7241040437372928763
+    second: pxl-food-8x9_16
+  - first:
+      213: 9093152277535908335
+    second: pxl-food-8x9_17
+  - first:
+      213: 2923372474053703548
+    second: pxl-food-8x9_18
+  - first:
+      213: 7749416479690007262
+    second: pxl-food-8x9_19
+  - first:
+      213: -4078374898699312588
+    second: pxl-food-8x9_20
+  - first:
+      213: 1666479362039987226
+    second: pxl-food-8x9_21
+  - first:
+      213: -2765301739302736432
+    second: pxl-food-8x9_22
+  - first:
+      213: 8925297448346463347
+    second: pxl-food-8x9_23
+  - first:
+      213: -4518625134981885803
+    second: pxl-food-8x9_24
+  - first:
+      213: 9106584956426879048
+    second: pxl-food-8x9_25
+  - first:
+      213: 3317474492027397032
+    second: pxl-food-8x9_26
+  - first:
+      213: -4430526970677456469
+    second: pxl-food-8x9_27
+  - first:
+      213: 2023570386697760221
+    second: pxl-food-8x9_28
+  - first:
+      213: 6093003411339941159
+    second: pxl-food-8x9_29
+  - first:
+      213: -8377120227363056007
+    second: pxl-food-8x9_30
+  - first:
+      213: 6246712000182488486
+    second: pxl-food-8x9_31
+  - first:
+      213: -2164910533527782521
+    second: pxl-food-8x9_32
+  - first:
+      213: -1383903440586514941
+    second: pxl-food-8x9_33
+  - first:
+      213: 990561982312496505
+    second: pxl-food-8x9_34
+  - first:
+      213: -453613731057440928
+    second: pxl-food-8x9_35
+  - first:
+      213: 6576494354583833922
+    second: pxl-food-8x9_36
+  - first:
+      213: -1721762566961571428
+    second: pxl-food-8x9_37
+  - first:
+      213: 3079558112746742735
+    second: pxl-food-8x9_38
+  - first:
+      213: -6158560759085935466
+    second: pxl-food-8x9_39
+  - first:
+      213: 2320621117740703904
+    second: pxl-food-8x9_40
+  - first:
+      213: 8177548277869809076
+    second: pxl-food-8x9_41
+  - first:
+      213: 7910457539227548644
+    second: pxl-food-8x9_42
+  - first:
+      213: 4985213962330087583
+    second: pxl-food-8x9_43
+  - first:
+      213: 607471000396702033
+    second: pxl-food-8x9_44
+  - first:
+      213: -212356930208094984
+    second: pxl-food-8x9_45
+  - first:
+      213: 7029759243007767929
+    second: pxl-food-8x9_46
+  - first:
+      213: 856430965649397600
+    second: pxl-food-8x9_47
+  - first:
+      213: 1000558566744709051
+    second: pxl-food-8x9_48
+  - first:
+      213: -4333950802566919889
+    second: pxl-food-8x9_49
+  - first:
+      213: -7454380384168170921
+    second: pxl-food-8x9_50
+  - first:
+      213: -6179718571194256142
+    second: pxl-food-8x9_51
+  - first:
+      213: -5868375258169928727
+    second: pxl-food-8x9_52
+  - first:
+      213: -7477215730890650914
+    second: pxl-food-8x9_53
+  - first:
+      213: 5574701636087138639
+    second: pxl-food-8x9_54
+  - first:
+      213: -7532858451158063001
+    second: pxl-food-8x9_55
+  - first:
+      213: 5503035568302243790
+    second: pxl-food-8x9_56
+  - first:
+      213: 5701835515868027265
+    second: pxl-food-8x9_57
+  - first:
+      213: 1888659927765975357
+    second: pxl-food-8x9_58
+  - first:
+      213: 1217005860628131027
+    second: pxl-food-8x9_59
+  - first:
+      213: 7686862020480848844
+    second: pxl-food-8x9_60
+  - first:
+      213: -7392773875116639662
+    second: pxl-food-8x9_61
+  - first:
+      213: 7267870942991299185
+    second: pxl-food-8x9_62
+  - first:
+      213: -7491839788224669823
+    second: pxl-food-8x9_63
+  - first:
+      213: 3238826407383304830
+    second: pxl-food-8x9_64
+  - first:
+      213: 6987364431558357015
+    second: pxl-food-8x9_65
+  - first:
+      213: 9157259586858237937
+    second: pxl-food-8x9_66
+  - first:
+      213: 8471258440732847101
+    second: pxl-food-8x9_67
+  - first:
+      213: 1850151287848766365
+    second: pxl-food-8x9_68
+  - first:
+      213: 6932618625284995390
+    second: pxl-food-8x9_69
+  - first:
+      213: -4271427435625445846
+    second: pxl-food-8x9_70
+  - first:
+      213: -8971705103543697731
+    second: pxl-food-8x9_71
+  - first:
+      213: -3800824465316750889
+    second: pxl-food-8x9_72
+  - first:
+      213: 7704595644284077378
+    second: pxl-food-8x9_73
+  - first:
+      213: 2840806063463214342
+    second: pxl-food-8x9_74
+  - first:
+      213: -5653745194897363359
+    second: pxl-food-8x9_75
+  - first:
+      213: -2349358306062579435
+    second: pxl-food-8x9_76
+  - first:
+      213: -3090511883106654190
+    second: pxl-food-8x9_77
+  - first:
+      213: -172708891547197907
+    second: pxl-food-8x9_78
+  - first:
+      213: -5727880676798976451
+    second: pxl-food-8x9_79
+  - first:
+      213: 7753219946527017895
+    second: pxl-food-8x9_80
+  - first:
+      213: 1333214269650704061
+    second: pxl-food-8x9_81
+  - first:
+      213: -5634630149871545671
+    second: pxl-food-8x9_82
+  - first:
+      213: -2303108175545239501
+    second: pxl-food-8x9_83
+  - first:
+      213: 540940848745248899
+    second: pxl-food-8x9_84
+  - first:
+      213: -8493102496678375383
+    second: pxl-food-8x9_85
+  - first:
+      213: 3680230931044411821
+    second: pxl-food-8x9_86
+  - first:
+      213: -2545103676101633938
+    second: pxl-food-8x9_87
+  - first:
+      213: -9145212286892338539
+    second: pxl-food-8x9_88
+  - first:
+      213: 1126606743333776107
+    second: pxl-food-8x9_89
+  - first:
+      213: -7400363059920031427
+    second: pxl-food-8x9_90
+  - first:
+      213: -8947313399828148315
+    second: pxl-food-8x9_91
+  - first:
+      213: 5785068798181597126
+    second: pxl-food-8x9_92
+  - first:
+      213: -9147607581126430184
+    second: pxl-food-8x9_93
+  - first:
+      213: -3283320036791285911
+    second: pxl-food-8x9_94
+  - first:
+      213: 3952631211326146102
+    second: pxl-food-8x9_95
+  - first:
+      213: 7803253794592246135
+    second: pxl-food-8x9_96
+  - first:
+      213: 5707299061255247060
+    second: pxl-food-8x9_97
+  - first:
+      213: -3431959016606802505
+    second: pxl-food-8x9_98
+  - first:
+      213: -3106677073867045884
+    second: pxl-food-8x9_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pxl-food-8x9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c67aee5b9f540c0800000000000000
+      internalID: -4591989685246006228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 107
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e448b0e0274722670800000000000000
+      internalID: 8512494278894388302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 107
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4d8d8cb81f7510800000000000000
+      internalID: 1548983994946505773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b573d96224b260800000000000000
+      internalID: 7112347549439471921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 107
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07b316cbd821a640800000000000000
+      internalID: 5089393978291500814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 107
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cad918175a1f3c0800000000000000
+      internalID: -4327495860001854428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c9cfa2b3749c80800000000000000
+      internalID: -8316895400555855171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e062dba0a2f2e670800000000000000
+      internalID: 8566676213103485157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9b48606e05cee0800000000000000
+      internalID: -1241570315041267715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf6f2e555a0a0ae0800000000000000
+      internalID: -1582440957298643012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa25507d33ae0d8b0800000000000000
+      internalID: -5129342467203312982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d986c935cd59ea140800000000000000
+      internalID: 4732885031941073053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c1769ac0382f90800000000000000
+      internalID: -6978273975945018965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1494d5ba10d90a0800000000000000
+      internalID: -6873335620781391410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2d6f28669d33820800000000000000
+      internalID: 2896898019636466389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4c5158f93a6900800000000000000
+      internalID: 678418432552357767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db52e3618a28b90800000000000000
+      internalID: -7241040437372928763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1ef0f91dd513e70800000000000000
+      internalID: 9093152277535908335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773026c6c7e19820800000000000000
+      internalID: 2923372474053703548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 95
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22b78ea357b8b60800000000000000
+      internalID: 7749416479690007262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432682643a3b667c0800000000000000
+      internalID: -4078374898699312588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb9ef7626802710800000000000000
+      internalID: 1666479362039987226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd271428bcaf99d0800000000000000
+      internalID: -2765301739302736432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c2463bdb60ddb70800000000000000
+      internalID: 8925297448346463347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d044616e9a41c0800000000000000
+      internalID: -4518625134981885803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408db4e4c6116e70800000000000000
+      internalID: 9106584956426879048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a366b849790a0e20800000000000000
+      internalID: 3317474492027397032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19bf0b13b9382c0800000000000000
+      internalID: -4430526970677456469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddae1d9b8a251c10800000000000000
+      internalID: 2023570386697760221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725192c0252be8450800000000000000
+      internalID: 6093003411339941159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976194f798d7ebb80800000000000000
+      internalID: -8377120227363056007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0c09b777c0b650800000000000000
+      internalID: 6246712000182488486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b33960751b4f1e0800000000000000
+      internalID: -2164910533527782521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e566c27236bcce0800000000000000
+      internalID: -1383903440586514941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3ebbefde2fbd00800000000000000
+      internalID: 990561982312496505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e41707b074b9f0800000000000000
+      internalID: -453613731057440928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc45095c6644b50800000000000000
+      internalID: 6576494354583833922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99d0b051121b18e0800000000000000
+      internalID: -1721762566961571428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 72
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3217f89c9ccba20800000000000000
+      internalID: 3079558112746742735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 71
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d50b7e95688aa0800000000000000
+      internalID: -6158560759085935466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a064358c90843020800000000000000
+      internalID: 2320621117740703904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd890c05dc7c7170800000000000000
+      internalID: 8177548277869809076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 59
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebf774783797cd60800000000000000
+      internalID: 7910457539227548644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90a00a9fa90f2540800000000000000
+      internalID: 4985213962330087583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1512ff508ab2e6800800000000000000
+      internalID: 607471000396702033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4aa514f7e8d0df0800000000000000
+      internalID: -212356930208094984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9753ff749c8be8160800000000000000
+      internalID: 7029759243007767929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0675d2afc67a2eb00800000000000000
+      internalID: 856430965649397600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 60
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7dacb17b2b2ed00800000000000000
+      internalID: 1000558566744709051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29caf215b6bad3c0800000000000000
+      internalID: -4333950802566919889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a240d1988bc8890800000000000000
+      internalID: -7454380384168170921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4f41873ba3d3aa0800000000000000
+      internalID: -6179718571194256142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e317107bc75f8ea0800000000000000
+      internalID: -5868375258169928727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacc43a8e79b3890800000000000000
+      internalID: -7477215730890650914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4943cb1a915d5d40800000000000000
+      internalID: 5574701636087138639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768ac634629e57790800000000000000
+      internalID: -7532858451158063001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfbefa61b5be5c40800000000000000
+      internalID: 5503035568302243790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189150b213df02f40800000000000000
+      internalID: 5701835515868027265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d318100a23ed53a10800000000000000
+      internalID: 1888659927765975357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcee4cd16ca3e010800000000000000
+      internalID: 1217005860628131027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d338e7483daa60800000000000000
+      internalID: 7686862020480848844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a72e44457976990800000000000000
+      internalID: -7392773875116639662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723166ad1aacd460800000000000000
+      internalID: 7267870942991299185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871bb4f763a70890800000000000000
+      internalID: -7491839788224669823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a8c3d157f92fc20800000000000000
+      internalID: 3238826407383304830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7103c3b0eea18f060800000000000000
+      internalID: 6987364431558357015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffb9b6b31f151f70800000000000000
+      internalID: 9157259586858237937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 36
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb29605ba4ff8570800000000000000
+      internalID: 8471258440732847101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 36
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b05f43bce0da910800000000000000
+      internalID: 1850151287848766365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e397e5bb8eb953060800000000000000
+      internalID: 6932618625284995390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2600b7d067d8b4c0800000000000000
+      internalID: -4271427435625445846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbef7b11eb91e7380800000000000000
+      internalID: -8971705103543697731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d95e235942c04bc0800000000000000
+      internalID: -3800824465316750889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2450393fae83cea60800000000000000
+      internalID: 7704595644284077378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d208040129c6720800000000000000
+      internalID: 2840806063463214342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e229733bcd981b0800000000000000
+      internalID: -5653745194897363359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519c60d6117656fd0800000000000000
+      internalID: -2349358306062579435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ed4901db4c15d0800000000000000
+      internalID: -3090511883106654190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e17cd9d2a6a9df0800000000000000
+      internalID: -172708891547197907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea29f3fda7280b0800000000000000
+      internalID: -5727880676798976451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab473a8678f89b60800000000000000
+      internalID: 7753219946527017895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db613088057808210800000000000000
+      internalID: 1333214269650704061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_82
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b253347bb5cdc1b0800000000000000
+      internalID: -5634630149871545671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f3551157b900e0800000000000000
+      internalID: -2303108175545239501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38875fdf5dec18700800000000000000
+      internalID: 540940848745248899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92090841740722a80800000000000000
+      internalID: -8493102496678375383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ae48788ec21330800000000000000
+      internalID: 3680230931044411821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_87
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68db6de0b9fdacd0800000000000000
+      internalID: -2545103676101633938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929e34e0eda51180800000000000000
+      internalID: -9145212286892338539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_89
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea28f13dd282af00800000000000000
+      internalID: 1126606743333776107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d313b8c7101ac4990800000000000000
+      internalID: -7400363059920031427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af86252ed1c4d380800000000000000
+      internalID: -8947313399828148315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5fccdb61b84050800000000000000
+      internalID: 5785068798181597126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_93
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812f94efe5b2d0180800000000000000
+      internalID: -9147607581126430184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967022382dd4f62d0800000000000000
+      internalID: -3283320036791285911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_95
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636873f05219ad630800000000000000
+      internalID: 3952631211326146102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c3e69bf9ba4c60800000000000000
+      internalID: 7803253794592246135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d41a05f146643f40800000000000000
+      internalID: 5707299061255247060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_98
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd37b257b3f50d0800000000000000
+      internalID: -3431959016606802505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pxl-food-8x9_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4040e4449add2e4d0800000000000000
+      internalID: -3106677073867045884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pxl-food-8x9_0: -4591989685246006228
+      pxl-food-8x9_1: 8512494278894388302
+      pxl-food-8x9_10: -5129342467203312982
+      pxl-food-8x9_11: 4732885031941073053
+      pxl-food-8x9_12: -6978273975945018965
+      pxl-food-8x9_13: -6873335620781391410
+      pxl-food-8x9_14: 2896898019636466389
+      pxl-food-8x9_15: 678418432552357767
+      pxl-food-8x9_16: -7241040437372928763
+      pxl-food-8x9_17: 9093152277535908335
+      pxl-food-8x9_18: 2923372474053703548
+      pxl-food-8x9_19: 7749416479690007262
+      pxl-food-8x9_2: 1548983994946505773
+      pxl-food-8x9_20: -4078374898699312588
+      pxl-food-8x9_21: 1666479362039987226
+      pxl-food-8x9_22: -2765301739302736432
+      pxl-food-8x9_23: 8925297448346463347
+      pxl-food-8x9_24: -4518625134981885803
+      pxl-food-8x9_25: 9106584956426879048
+      pxl-food-8x9_26: 3317474492027397032
+      pxl-food-8x9_27: -4430526970677456469
+      pxl-food-8x9_28: 2023570386697760221
+      pxl-food-8x9_29: 6093003411339941159
+      pxl-food-8x9_3: 7112347549439471921
+      pxl-food-8x9_30: -8377120227363056007
+      pxl-food-8x9_31: 6246712000182488486
+      pxl-food-8x9_32: -2164910533527782521
+      pxl-food-8x9_33: -1383903440586514941
+      pxl-food-8x9_34: 990561982312496505
+      pxl-food-8x9_35: -453613731057440928
+      pxl-food-8x9_36: 6576494354583833922
+      pxl-food-8x9_37: -1721762566961571428
+      pxl-food-8x9_38: 3079558112746742735
+      pxl-food-8x9_39: -6158560759085935466
+      pxl-food-8x9_4: 5089393978291500814
+      pxl-food-8x9_40: 2320621117740703904
+      pxl-food-8x9_41: 8177548277869809076
+      pxl-food-8x9_42: 7910457539227548644
+      pxl-food-8x9_43: 4985213962330087583
+      pxl-food-8x9_44: 607471000396702033
+      pxl-food-8x9_45: -212356930208094984
+      pxl-food-8x9_46: 7029759243007767929
+      pxl-food-8x9_47: 856430965649397600
+      pxl-food-8x9_48: 1000558566744709051
+      pxl-food-8x9_49: -4333950802566919889
+      pxl-food-8x9_5: -4327495860001854428
+      pxl-food-8x9_50: -7454380384168170921
+      pxl-food-8x9_51: -6179718571194256142
+      pxl-food-8x9_52: -5868375258169928727
+      pxl-food-8x9_53: -7477215730890650914
+      pxl-food-8x9_54: 5574701636087138639
+      pxl-food-8x9_55: -7532858451158063001
+      pxl-food-8x9_56: 5503035568302243790
+      pxl-food-8x9_57: 5701835515868027265
+      pxl-food-8x9_58: 1888659927765975357
+      pxl-food-8x9_59: 1217005860628131027
+      pxl-food-8x9_6: -8316895400555855171
+      pxl-food-8x9_60: 7686862020480848844
+      pxl-food-8x9_61: -7392773875116639662
+      pxl-food-8x9_62: 7267870942991299185
+      pxl-food-8x9_63: -7491839788224669823
+      pxl-food-8x9_64: 3238826407383304830
+      pxl-food-8x9_65: 6987364431558357015
+      pxl-food-8x9_66: 9157259586858237937
+      pxl-food-8x9_67: 8471258440732847101
+      pxl-food-8x9_68: 1850151287848766365
+      pxl-food-8x9_69: 6932618625284995390
+      pxl-food-8x9_7: 8566676213103485157
+      pxl-food-8x9_70: -4271427435625445846
+      pxl-food-8x9_71: -8971705103543697731
+      pxl-food-8x9_72: -3800824465316750889
+      pxl-food-8x9_73: 7704595644284077378
+      pxl-food-8x9_74: 2840806063463214342
+      pxl-food-8x9_75: -5653745194897363359
+      pxl-food-8x9_76: -2349358306062579435
+      pxl-food-8x9_77: -3090511883106654190
+      pxl-food-8x9_78: -172708891547197907
+      pxl-food-8x9_79: -5727880676798976451
+      pxl-food-8x9_8: -1241570315041267715
+      pxl-food-8x9_80: 7753219946527017895
+      pxl-food-8x9_81: 1333214269650704061
+      pxl-food-8x9_82: -5634630149871545671
+      pxl-food-8x9_83: -2303108175545239501
+      pxl-food-8x9_84: 540940848745248899
+      pxl-food-8x9_85: -8493102496678375383
+      pxl-food-8x9_86: 3680230931044411821
+      pxl-food-8x9_87: -2545103676101633938
+      pxl-food-8x9_88: -9145212286892338539
+      pxl-food-8x9_89: 1126606743333776107
+      pxl-food-8x9_9: -1582440957298643012
+      pxl-food-8x9_90: -7400363059920031427
+      pxl-food-8x9_91: -8947313399828148315
+      pxl-food-8x9_92: 5785068798181597126
+      pxl-food-8x9_93: -9147607581126430184
+      pxl-food-8x9_94: -3283320036791285911
+      pxl-food-8x9_95: 3952631211326146102
+      pxl-food-8x9_96: 7803253794592246135
+      pxl-food-8x9_97: 5707299061255247060
+      pxl-food-8x9_98: -3431959016606802505
+      pxl-food-8x9_99: -3106677073867045884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
