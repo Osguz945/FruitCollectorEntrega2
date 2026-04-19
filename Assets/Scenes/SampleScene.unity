@@ -1901,7 +1901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9225560b35f5ce448476e0d9b9edb2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentFormat: 1
+  currentFormat: 0
   playerMovement: {fileID: 535026668}
   playerInventory: {fileID: 535026667}
   fruitFactory: {fileID: 840673114}
