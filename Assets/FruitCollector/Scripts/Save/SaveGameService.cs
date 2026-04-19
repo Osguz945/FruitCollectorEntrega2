@@ -75,7 +75,7 @@ public sealed class SaveGameService : MonoBehaviour
         }
         else if (currentFormat == SaveFormat.XML)
         {
-            // Magia de C# para convertir a XML
+      
             XmlSerializer serializer = new XmlSerializer(typeof(GameData));
             using (StringWriter writer = new StringWriter())
             {
@@ -83,8 +83,6 @@ public sealed class SaveGameService : MonoBehaviour
                 serializedText = writer.ToString();
             }
         }
-
-        // 3. Escribimos el archivo
         File.WriteAllText(SavePath, serializedText);
         Debug.Log($"¡Partida guardada con éxito en: {SavePath}");
     }
