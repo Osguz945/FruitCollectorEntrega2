@@ -1,15 +1,14 @@
 using UnityEngine;
 using System.IO;
 using System;
-using System.Xml.Serialization; // NUEVO: Necesario para XML
+using System.Xml.Serialization; 
 
 public sealed class SaveGameService : MonoBehaviour
 {
-    // NUEVO: Creamos una lista de opciones para elegir el formato en Unity
     public enum SaveFormat { JSON, XML }
 
     [Header("Configuración de Guardado")]
-    [SerializeField] private SaveFormat currentFormat = SaveFormat.JSON; // El interruptor
+    [SerializeField] private SaveFormat currentFormat = SaveFormat.JSON; 
 
     [Header("Referencias Generales")]
     [SerializeField] private PlayerMovement playerMovement;
@@ -19,7 +18,6 @@ public sealed class SaveGameService : MonoBehaviour
     [SerializeField] private FruitFactory fruitFactory;
     [SerializeField] private FruitSelector fruitSelector;
 
-    // NUEVO: Las rutas ahora cambian su extensión (.json o .xml) según lo que elijamos
     private string Extension => currentFormat == SaveFormat.JSON ? ".json" : ".xml";
     private string SavePath => Path.Combine(Application.persistentDataPath, "savegame" + Extension);
     private string BackupPath => Path.Combine(Application.persistentDataPath, "savegame_backup" + Extension);
@@ -41,7 +39,6 @@ public sealed class SaveGameService : MonoBehaviour
             File.Copy(SavePath, BackupPath, true);
         }
 
-        // 1. Recolectamos todos los datos (exactamente igual que antes)
         GameData data = new GameData();
         data.playerPosition[0] = playerMovement.transform.position.x;
         data.playerPosition[1] = playerMovement.transform.position.y;
@@ -70,7 +67,6 @@ public sealed class SaveGameService : MonoBehaviour
             data.chestsData.Add(chestData);
         }
 
-        // 2. NUEVO: Elegimos cómo traducir esos datos a texto
         string serializedText = "";
 
         if (currentFormat == SaveFormat.JSON)
@@ -105,7 +101,6 @@ public sealed class SaveGameService : MonoBehaviour
         string fileText = File.ReadAllText(SavePath);
         GameData data = null;
 
-        // NUEVO: Elegimos cómo traducir el texto de vuelta a nuestro molde
         if (currentFormat == SaveFormat.JSON)
         {
             data = JsonUtility.FromJson<GameData>(fileText);
@@ -119,7 +114,6 @@ public sealed class SaveGameService : MonoBehaviour
             }
         }
 
-        // Aplicamos los datos al juego (exactamente igual que antes)
         if (data != null)
         {
             playerMovement.transform.position = new Vector3(data.playerPosition[0], data.playerPosition[1], 0f);

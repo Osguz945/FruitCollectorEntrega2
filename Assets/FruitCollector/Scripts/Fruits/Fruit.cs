@@ -43,10 +43,8 @@ public sealed class Fruit : MonoBehaviour, IPickable
     {
         if (receiver == null) throw new ArgumentNullException(nameof(receiver));
 
-        // Intentamos guardar la fruta y miramos qué responde el inventario
         bool wasStored = receiver.Store(this);
 
-        // SOLO si se guardó con éxito, la destruimos del mundo
         if (wasStored)
         {
             Destroy(gameObject);

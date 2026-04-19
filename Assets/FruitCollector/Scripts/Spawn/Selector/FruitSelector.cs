@@ -6,7 +6,7 @@ public class FruitSelector : MonoBehaviour, IFruitSelector
     [SerializeField] private FruitData[] availableFruits;
 
     private readonly IRandomProvider randomProvider = new UnityRandomProvider();
-    
+
 
     public FruitData PickRandomFruitData()
     {
@@ -22,7 +22,6 @@ public class FruitSelector : MonoBehaviour, IFruitSelector
         return data;
 
     }
-    // NUEVO: Método para buscar una fruta específica por su ID
     public FruitData GetFruitDataById(string id)
     {
         foreach (var data in availableFruits)

@@ -47,7 +47,6 @@ public sealed class Chest : MonoBehaviour, IInteractable
         {
             var playerItems = currentPlayerInventory.GetItems();
 
-            // Si el jugador no tiene nada en la mochila, le avisamos y terminamos
             if (playerItems.Count == 0)
             {
                 Debug.Log("Tu inventario está vacío. No hay nada que guardar en el cofre.");
@@ -56,7 +55,6 @@ public sealed class Chest : MonoBehaviour, IInteractable
 
             List<string> keys = new List<string>(playerItems.Keys);
 
-            // NUEVO: Bandera para comprobar si realmente hemos transferido algo
             bool somethingTransferred = false;
 
             foreach (var key in keys)
@@ -73,7 +71,7 @@ public sealed class Chest : MonoBehaviour, IInteractable
                         chestItems[key] += amountToMove;
                         playerItems[key] -= amountToMove;
 
-                        somethingTransferred = true; // ¡Hemos conseguido guardar algo!
+                        somethingTransferred = true; 
 
                         if (playerItems[key] <= 0)
                             playerItems.Remove(key);
@@ -91,7 +89,7 @@ public sealed class Chest : MonoBehaviour, IInteractable
                     chestItems.Add(key, amountToMove);
                     playerItems[key] -= amountToMove;
 
-                    somethingTransferred = true; // ¡Hemos conseguido guardar algo!
+                    somethingTransferred = true; 
 
                     if (playerItems[key] <= 0)
                         playerItems.Remove(key);
@@ -104,7 +102,6 @@ public sealed class Chest : MonoBehaviour, IInteractable
                 }
             }
 
-            // NUEVO: El mensaje final ahora depende de lo que haya pasado
             if (somethingTransferred)
             {
                 Debug.Log($"Intercambio con cofre {chestId} finalizado con éxito.");
